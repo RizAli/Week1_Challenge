@@ -1,0 +1,34 @@
+Planes
+Collaborators - Responses
+			
+land
+takeoff
+	status
+		flying
+		landing
+
+
+
+Weather
+Collaborators - Responses
+
+stormy
+sunny
+
+in weather test use double to override random generator
+https://www.relishapp.com/rspec/rspec-mocks/docs
+
+
+
+
+Airport
+
+planes will land
+planes will takeoff
+
+
+
+
+What interacts with each class goes in the Module
+
+- plane
