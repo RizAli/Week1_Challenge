@@ -1,23 +1,8 @@
-class Weather
+module Weather
 
-	def initialize
+	def stormy
 		@stormy = false
 	end
 	
-	def sunny?
-		!@stormy
-	end
-
-	def stormy?
-		@stormy
-	end
-
-	def sunny
-		@stormy = false
-	end
-
-	def stormy
-		@stormy = true
-	end
-
+	
 end
